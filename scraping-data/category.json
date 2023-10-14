@@ -1,0 +1,108 @@
+[
+    {
+        "category": "Smartphone",
+        "brands": [
+            "XIAOMI",
+            "VIVO",
+            "SONY",
+            "SAMSUNG",
+            "SAMSUNG",
+            "LG",
+            "IPHONE",
+            "HTC",
+            "GOOGLE"
+        ]
+    },
+    {
+        "category": "Tablet",
+        "brands": [
+            "XIAOMI",
+            "SONY",
+            "SAMSUNG",
+            "LG",
+            "LENOVO",
+            "HUAWEI",
+            "ASUS",
+            "APPLE",
+            "APPLE"
+        ]
+    },
+    {
+        "category": "Laptop",
+        "brands": [
+            "LENOVO",
+            "HP",
+            "HP",
+            "DELL",
+            "ASUS",
+            "APPLE",
+            "APPLE",
+            "ACER"
+        ]
+    },
+    {
+        "category": "Camera",
+        "brands": [
+            "USB",
+            "SENNHEISER",
+            "SAMSUNG",
+            "MOTOROLA",
+            "LOGITECH",
+            "LOGITECH",
+            "JBL",
+            "APPLE"
+        ]
+    },
+    {
+        "category": "Printer",
+        "brands": [
+            "USB",
+            "SENNHEISER",
+            "SAMSUNG",
+            "MOTOROLA",
+            "LOGITECH",
+            "LOGITECH",
+            "JBL",
+            "APPLE"
+        ]
+    },
+    {
+        "category": "Speaker",
+        "brands": [
+            "USB",
+            "SENNHEISER",
+            "SAMSUNG",
+            "MOTOROLA",
+            "LOGITECH",
+            "LOGITECH",
+            "JBL",
+            "APPLE"
+        ]
+    },
+    {
+        "category": "Accessories",
+        "brands": [
+            "SAMSUNG",
+            "MOTOROLA",
+            "LOGITECH",
+            "LOGITECH",
+            "JBL",
+            "APPLE",
+            "USB",
+            "SENNHEISER"
+        ]
+    },
+    {
+        "category": "Television",
+        "brands": [
+            "USB",
+            "SENNHEISER",
+            "SAMSUNG",
+            "MOTOROLA",
+            "LOGITECH",
+            "LOGITECH",
+            "JBL",
+            "APPLE"
+        ]
+    }
+]
