@@ -1,9 +1,9 @@
 [
     {
         "category": [
-            "Home › Smartphone › Xiaomi Mi 5"
+            "Home",
+            "Smartphone"
         ],
-        "name": "XIAOMI MI 5",
         "brand": "XIAOMI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1024x1024.jpg?v=1491404851",
         "images": [
@@ -12,7 +12,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1024x1024.jpg?v=1491404851",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1024x1024.jpg?v=1491404851"
         ],
-        "price": "$305.00",
+        "price": "7.506.047,91 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 144.6 x 69.2 x 7.3 mm",
@@ -60,9 +60,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › Vivo V5"
+            "Home",
+            "Smartphone"
         ],
-        "name": "VIVO V5",
         "brand": "VIVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_31cc1c0e-ac34-4c8e-946a-a5e30acf6b1a_1024x1024.jpg?v=1491404855",
         "images": [
@@ -70,7 +70,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/vivo-v5-1_1024x1024.jpg?v=1491404855",
             "https://digital-world-2.myshopify.com/cdn/shop/products/vivo-v5-2_1024x1024.jpg?v=1491404855"
         ],
-        "price": "6.113.754,97 VND",
+        "price": "6.152.498,28 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 153.8 x 75.5 x 7.6 mm",
@@ -101,9 +101,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › Sony Xperia XA"
+            "Home",
+            "Smartphone"
         ],
-        "name": "SONY XPERIA XA",
         "brand": "SONY",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/xperia-xa-white-D1-hero-image-35f68ba1669ba23b989e7519e4a1660d_1024x1024.jpg?v=1491404881",
         "images": [
@@ -112,7 +112,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_015_1024x1024.jpg?v=1491404881",
             "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-xz1_1024x1024.jpg?v=1491404881"
         ],
-        "price": "17.314.154,08 VND",
+        "price": "17.423.875,14 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 146 x 72 x 8.1 mm",
@@ -152,9 +152,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › Samsung Galaxy S7"
+            "Home",
+            "Smartphone"
         ],
-        "name": "SAMSUNG GALAXY S7",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s7-and-s7-edge-unveiled-with-refined-design-performance-boost-500729-4_1024x1024.jpg?v=1491404832",
         "images": [
@@ -163,7 +163,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s6_1024x1024.png?v=1491404832",
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s6-edge-plus-black-sapphire-spin.0001_1024x1024.png?v=1491404832"
         ],
-        "price": "21.985.062,87 VND",
+        "price": "22.124.383,83 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 142.4 x 69.6 x 7.9 mm",
@@ -193,9 +193,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › Samsung Galaxy J7 Prime"
+            "Home",
+            "Smartphone"
         ],
-        "name": "SAMSUNG GALAXY J7 PRIME",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1024x1024.jpg?v=1491404895",
         "images": [
@@ -204,7 +204,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-j7-prime-2_1024x1024.jpg?v=1491404895",
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-j7-prime-3_1024x1024.jpg?v=1491404895"
         ],
-        "price": "10.211.438,10 VND",
+        "price": "10.276.148,73 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 151.7 x 75 x 8 mm",
@@ -242,9 +242,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › LG G5"
+            "Home",
+            "Smartphone"
         ],
-        "name": "LG G5",
         "brand": "LG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/modular-type-1600x840_G5_M01C_1024x1024.jpg?v=1491404872",
         "images": [
@@ -254,7 +254,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-1_1024x1024.jpg?v=1491404872",
             "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-02_1024x1024.jpg?v=1491404872"
         ],
-        "price": "14.428.461,73 VND",
+        "price": "14.519.895,95 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / LTE",
             "Dimensions: 149.4 x 73.9 x 7.7 mm",
@@ -277,9 +277,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › iPhone 7"
+            "Home",
+            "Smartphone"
         ],
-        "name": "IPHONE 7",
         "brand": "IPHONE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/iphone_1024x1024.jpg?v=1491404827",
         "images": [
@@ -289,7 +289,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/3_1024x1024.jpg?v=1491404827",
             "https://digital-world-2.myshopify.com/cdn/shop/products/4_1024x1024.jpg?v=1491404827"
         ],
-        "price": "21.985.062,87 VND",
+        "price": "22.124.383,83 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 138.3 x 67.1 x 7.1 mm",
@@ -329,9 +329,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › HTC 10"
+            "Home",
+            "Smartphone"
         ],
-        "name": "HTC 10",
         "brand": "HTC",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/HTC-10-1_1024x1024.jpg?v=1491404875",
         "images": [
@@ -339,7 +339,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/htc-10-5_1024x1024.jpg?v=1491404875",
             "https://digital-world-2.myshopify.com/cdn/shop/products/htc-10-r_1024x1024.jpg?v=1491404875"
         ],
-        "price": "12.643.245,28 VND",
+        "price": "12.723.366,45 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / LTE",
             "Dimensions: 145.9 x 71.9 x 9 mm",
@@ -379,9 +379,9 @@
     },
     {
         "category": [
-            "Home › Smartphone › Google Pixel"
+            "Home",
+            "Smartphone"
         ],
-        "name": "GOOGLE PIXEL",
         "brand": "GOOGLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/u3_1024x1024.jpg?v=1491404903",
         "images": [
@@ -393,7 +393,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_020_1024x1024.jpg?v=1491404903",
             "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_023_1024x1024.jpg?v=1491404903"
         ],
-        "price": "20.402.823,09 VND",
+        "price": "20.532.117,27 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 143.8 x 69.5 x 8.5 mm",
@@ -432,9 +432,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Xiaomi Mi Pad 3"
+            "Home",
+            "Tablet"
         ],
-        "name": "XIAOMI MI PAD 3",
         "brand": "XIAOMI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1_1024x1024.jpg?v=1491404888",
         "images": [
@@ -444,7 +444,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/xiaomi-redmi-note-3-2_1024x1024.jpg?v=1491404888",
             "https://digital-world-2.myshopify.com/cdn/shop/products/xiaomi-redmi-note-3-3_1024x1024.jpg?v=1491404889"
         ],
-        "price": "4.303.838,95 VND",
+        "price": "4.331.112,69 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 150 x 76 x 8.7 mm",
@@ -490,9 +490,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Sony Xperia Z4 Tablet LTE"
+            "Home",
+            "Tablet"
         ],
-        "name": "SONY XPERIA Z4 TABLET LTE",
         "brand": "SONY",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-11_1024x1024.jpg?v=1491404927",
         "images": [
@@ -502,7 +502,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-2_1024x1024.jpg?v=1491404927",
             "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-2_dbebeed1-de5c-4bff-9c53-8aa708c32ca5_1024x1024.jpg?v=1491404927"
         ],
-        "price": "17.094.058,90 VND",
+        "price": "17.202.385,20 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 254 x 167 x 6.1 mm",
@@ -533,9 +533,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Samsung Galaxy Tab S 8.4 LTE"
+            "Home",
+            "Tablet"
         ],
-        "name": "SAMSUNG GALAXY TAB S 8.4 LTE",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss8_1024x1024.jpg?v=1491404867",
         "images": [
@@ -543,7 +543,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-tab-s-84-1_1024x1024.jpg?v=1491404867",
             "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-tab-s-84-3_1024x1024.jpg?v=1491404867"
         ],
-        "price": "13.669.867,01 VND",
+        "price": "13.756.493,96 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 212.8 x 125.6 x 6.6 mm",
@@ -581,16 +581,16 @@
     },
     {
         "category": [
-            "Home › Tablet › LG G Pad III 10.1 FHD"
+            "Home",
+            "Tablet"
         ],
-        "name": "LG G PAD III 10.1 FHD",
         "brand": "LG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-2_1024x1024.jpg?v=1491404930",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-2_1024x1024.jpg?v=1491404930",
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-3_1024x1024.jpg?v=1491404930"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 256.2 x 167.9 x 6.7 mm",
@@ -613,9 +613,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Lenovo Yoga Tab 3 Plus"
+            "Home",
+            "Tablet"
         ],
-        "name": "LENOVO YOGA TAB 3 PLUS",
         "brand": "LENOVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss3_1024x1024.jpg?v=1491404819",
         "images": [
@@ -624,7 +624,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/lenovo-yoga-tab3-plus1_1024x1024.jpg?v=1491404819",
             "https://digital-world-2.myshopify.com/cdn/shop/products/lenovo-yoga-tab3-plus2_1024x1024.jpg?v=1491404819"
         ],
-        "price": "12.203.054,92 VND",
+        "price": "12.280.386,57 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 247 x 179 mm",
@@ -647,9 +647,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Huawei MediaPad T1 7.0"
+            "Home",
+            "Tablet"
         ],
-        "name": "HUAWEI MEDIAPAD T1 7.0",
         "brand": "HUAWEI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss4_1024x1024.jpg?v=1491404838",
         "images": [
@@ -658,7 +658,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/huawei-mediapad-t1-70-2_1024x1024.jpg?v=1491404838",
             "https://digital-world-2.myshopify.com/cdn/shop/products/huawei-mediapad-t1-70-11_1024x1024.jpg?v=1491404838"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Technology: GSM / HSPA",
             "Dimensions: 191.8 x 107 x 8.5 mm",
@@ -681,9 +681,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Asus ZenPad 3 8.0 Z581KL"
+            "Home",
+            "Tablet"
         ],
-        "name": "ASUS ZENPAD 3 8.0 Z581KL",
         "brand": "ASUS",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss9_1024x1024.jpg?v=1491404859",
         "images": [
@@ -691,7 +691,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/asus-zenpad-3-80-z581kl-1_1024x1024.jpg?v=1491404859",
             "https://digital-world-2.myshopify.com/cdn/shop/products/asus-zenpad-3-80-z581kl-2_1024x1024.jpg?v=1491404859"
         ],
-        "price": "6.847.405,57 VND",
+        "price": "6.890.798,08 VND",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 205.4 x 136.4 x 7.6 mm",
@@ -714,9 +714,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Apple iPad Pro"
+            "Home",
+            "Tablet"
         ],
-        "name": "APPLE IPAD PRO",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss5_1024x1024.jpg?v=1491404844",
         "images": [
@@ -726,7 +726,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-4_1024x1024.jpg?v=1491404844",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-5_1024x1024.jpg?v=1491404844"
         ],
-        "price": "34.237.027,83 VND",
+        "price": "34.453.990,39 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 305.7 x 220.6 x 6.9 mm",
@@ -766,9 +766,9 @@
     },
     {
         "category": [
-            "Home › Tablet › Apple iPad Air 2"
+            "Home",
+            "Tablet"
         ],
-        "name": "APPLE IPAD AIR 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/SS7_1_1024x1024.jpg?v=1491404862",
         "images": [
@@ -777,7 +777,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-air-2-3_1024x1024.jpg?v=1491404862",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-air-2-4_1024x1024.jpg?v=1491404862"
         ],
-        "price": "8.779.352,14 VND",
+        "price": "8.834.987,54 VND",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 240 x 169.5 x 6.1 mm",
@@ -818,9 +818,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Lenovo IdeaPad 110"
+            "Home",
+            "Laptop"
         ],
-        "name": "LENOVO IDEAPAD 110",
         "brand": "LENOVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_877559ca-7315-44b0-9f7f-f393bd0808bd_1024x1024.jpg?v=1491404790",
         "images": [
@@ -828,7 +828,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_6f644814-23bf-4439-80ff-0b5d50baf196_1024x1024.jpg?v=1491404790",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_76a134cf-ab12-45ae-bf1d-54a1ec20982d_1024x1024.jpg?v=1491404790"
         ],
-        "price": "18.316.809,89 VND",
+        "price": "18.432.884,86 VND",
         "description": [
             "Processor: Intel, Core i7 Skylake",
             "Memory: DDR4 - 8 GB",
@@ -851,9 +851,9 @@
     },
     {
         "category": [
-            "Home › Laptop › HP ProBook 450"
+            "Home",
+            "Laptop"
         ],
-        "name": "HP PROBOOK 450",
         "brand": "HP",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_6dbdaadc-bd0c-454b-b4c1-395b60a2e2a7_1024x1024.jpg?v=1491404782",
         "images": [
@@ -861,7 +861,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_b21a3aa8-86ed-4338-985d-0bfca8fea6e0_1024x1024.jpg?v=1491404782",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_86e4ff89-2434-4fe7-b758-49d789152900_1024x1024.jpg?v=1491404782"
         ],
-        "price": "20.762.311,88 VND",
+        "price": "20.893.884,17 VND",
         "description": [
             "Processor: Intel, Core i5 Skylake",
             "Memory: DDR4 - 4 GB",
@@ -884,9 +884,9 @@
     },
     {
         "category": [
-            "Home › Laptop › HP Pavilion 15 AU072TX"
+            "Home",
+            "Laptop"
         ],
-        "name": "HP PAVILION 15 AU072TX",
         "brand": "HP",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/x2_1024x1024.jpg?v=1491404795",
         "images": [
@@ -894,7 +894,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/x3_1024x1024.jpg?v=1491404795",
             "https://digital-world-2.myshopify.com/cdn/shop/products/x1_1024x1024.jpg?v=1491404795"
         ],
-        "price": "19.539.560,89 VND",
+        "price": "19.663.384,51 VND",
         "description": [
             "Processor: Intel, Core i7 Skylake",
             "Memory: DDR4 4 GB",
@@ -917,9 +917,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Dell Inspiron 7460"
+            "Home",
+            "Laptop"
         ],
-        "name": "DELL INSPIRON 7460",
         "brand": "DELL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_8ad649f4-de63-464c-a7d1-7573c1b53a2d_1024x1024.jpg?v=1491404804",
         "images": [
@@ -927,7 +927,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_eda0eb59-ee79-4c50-b724-c9ed562d180b_1024x1024.jpg?v=1491404804",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_0267f8b8-d3ca-475f-a6f2-0a999f863a0a_1024x1024.jpg?v=1491404804"
         ],
-        "price": "21.985.062,87 VND",
+        "price": "22.124.383,83 VND",
         "description": [
             "Processor: Core i5 Kabylake 2.50GHz",
             "Memory: DDR4 4GB 2400MHz",
@@ -950,9 +950,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Asus RoG G752VM"
+            "Home",
+            "Laptop"
         ],
-        "name": "ASUS ROG G752VM",
         "brand": "ASUS",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_33133681-0515-48fa-a6ee-fce4fc68afea_1024x1024.jpg?v=1491404807",
         "images": [
@@ -960,7 +960,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_f7b95ca1-d4cf-4b52-a22a-481db6b06c82_1024x1024.jpg?v=1491404807",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_59dcf671-2402-42e8-9c71-d1a262eca464_1024x1024.jpg?v=1491404807"
         ],
-        "price": "7.312.050,94 VND",
+        "price": "7.358.387,95 VND",
         "description": [
             "Processor: Intel® Pentium® N3700 Processor",
             "Memory: DDR3 2 GB",
@@ -992,9 +992,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Apple Macbook Pro 13\""
+            "Home",
+            "Laptop"
         ],
-        "name": "APPLE MACBOOK PRO 13\"",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1_1024x1024.jpg?v=1491404800",
         "images": [
@@ -1002,7 +1002,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_4c7eeac9-df0b-4725-8a45-cb6c87b42eba_1024x1024.jpg?v=1491404800",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1_1024x1024.jpg?v=1491404800"
         ],
-        "price": "36.658.074,80 VND",
+        "price": "36.890.379,71 VND",
         "description": [
             "Processor: 2.0GHz Core i5",
             "Memory: DDR4 8GB 1866MHz",
@@ -1025,9 +1025,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Apple Macbook Air"
+            "Home",
+            "Laptop"
         ],
-        "name": "APPLE MACBOOK AIR",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_4_1024x1024.jpg?v=1491404771",
         "images": [
@@ -1035,7 +1035,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_4_1024x1024.jpg?v=1491404771",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_4_1024x1024.jpg?v=1491404771"
         ],
-        "price": "29.101.473,66 VND",
+        "price": "29.285.891,83 VND",
         "description": [
             "Processor: Core i5 Broadwelle",
             "Memory: DDR3L - 8 GB",
@@ -1058,9 +1058,9 @@
     },
     {
         "category": [
-            "Home › Laptop › Acer Aspire E5"
+            "Home",
+            "Laptop"
         ],
-        "name": "ACER ASPIRE E5",
         "brand": "ACER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_00d0ce5d-e30b-4a9a-bffd-357614f67b8d_1024x1024.jpg?v=1491404787",
         "images": [
@@ -1068,7 +1068,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_bac0625f-a20a-431b-b73b-0ca2ec0e1495_1024x1024.jpg?v=1491404787",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_ab603453-7471-477c-a63d-987e838aca3b_1024x1024.jpg?v=1491404787"
         ],
-        "price": "15.137.657,31 VND",
+        "price": "15.233.585,75 VND",
         "description": [
             "Processor: Intel, Core i5 Skylake",
             "Memory: DDR4 - 4 GB",
@@ -1091,16 +1091,16 @@
     },
     {
         "category": [
-            "Home › Camera › USB SanDisk"
+            "Home",
+            "Camera"
         ],
-        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "170.940,59 VND",
+        "price": "172.023,85 VND",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1129,13 +1129,13 @@
     },
     {
         "category": [
-            "Home › Camera › Sennheiser EZX 80"
+            "Home",
+            "Camera"
         ],
-        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.687.396,37 VND",
+        "price": "1.698.089,53 VND",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1159,9 +1159,9 @@
     },
     {
         "category": [
-            "Home › Camera › Samsung Gear VR"
+            "Home",
+            "Camera"
         ],
-        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1170,7 +1170,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1191,9 +1191,9 @@
     },
     {
         "category": [
-            "Home › Camera › Motorola Moto 360 (2nd gen)"
+            "Home",
+            "Camera"
         ],
-        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1203,7 +1203,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.559.012,41 VND",
+        "price": "8.613.251,50 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1243,13 +1243,13 @@
     },
     {
         "category": [
-            "Home › Camera › Logitech Wireless Keyboard MK240 Nano"
+            "Home",
+            "Camera"
         ],
-        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "595.235,18 VND",
+        "price": "599.007,23 VND",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1270,9 +1270,9 @@
     },
     {
         "category": [
-            "Home › Camera › Logitech MX anywhere 2"
+            "Home",
+            "Camera"
         ],
-        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1280,7 +1280,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "439.945,81 VND",
+        "price": "442.733,78 VND",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1312,9 +1312,9 @@
     },
     {
         "category": [
-            "Home › Camera › JBL Charge 3"
+            "Home",
+            "Camera"
         ],
-        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1322,7 +1322,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.300.204,93 VND",
+        "price": "3.321.118,57 VND",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1355,16 +1355,16 @@
     },
     {
         "category": [
-            "Home › Camera › Apple Watch Edition Series 2"
+            "Home",
+            "Camera"
         ],
-        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -1409,16 +1409,16 @@
     },
     {
         "category": [
-            "Home › Printer › USB SanDisk"
+            "Home",
+            "Printer"
         ],
-        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "170.940,59 VND",
+        "price": "172.023,85 VND",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1447,13 +1447,13 @@
     },
     {
         "category": [
-            "Home › Printer › Sennheiser EZX 80"
+            "Home",
+            "Printer"
         ],
-        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.687.396,37 VND",
+        "price": "1.698.089,53 VND",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1477,9 +1477,9 @@
     },
     {
         "category": [
-            "Home › Printer › Samsung Gear VR"
+            "Home",
+            "Printer"
         ],
-        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1488,7 +1488,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1509,9 +1509,9 @@
     },
     {
         "category": [
-            "Home › Printer › Motorola Moto 360 (2nd gen)"
+            "Home",
+            "Printer"
         ],
-        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1521,7 +1521,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.559.012,41 VND",
+        "price": "8.613.251,50 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1561,13 +1561,13 @@
     },
     {
         "category": [
-            "Home › Printer › Logitech Wireless Keyboard MK240 Nano"
+            "Home",
+            "Printer"
         ],
-        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "595.235,18 VND",
+        "price": "599.007,23 VND",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1588,9 +1588,9 @@
     },
     {
         "category": [
-            "Home › Printer › Logitech MX anywhere 2"
+            "Home",
+            "Printer"
         ],
-        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1598,7 +1598,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "439.945,81 VND",
+        "price": "442.733,78 VND",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1630,9 +1630,9 @@
     },
     {
         "category": [
-            "Home › Printer › JBL Charge 3"
+            "Home",
+            "Printer"
         ],
-        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1640,7 +1640,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.300.204,93 VND",
+        "price": "3.321.118,57 VND",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1673,16 +1673,16 @@
     },
     {
         "category": [
-            "Home › Printer › Apple Watch Edition Series 2"
+            "Home",
+            "Printer"
         ],
-        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -1727,16 +1727,16 @@
     },
     {
         "category": [
-            "Home › Speaker › USB SanDisk"
+            "Home",
+            "Speaker"
         ],
-        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "170.940,59 VND",
+        "price": "172.023,85 VND",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1765,13 +1765,13 @@
     },
     {
         "category": [
-            "Home › Speaker › Sennheiser EZX 80"
+            "Home",
+            "Speaker"
         ],
-        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.687.396,37 VND",
+        "price": "1.698.089,53 VND",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1795,9 +1795,9 @@
     },
     {
         "category": [
-            "Home › Speaker › Samsung Gear VR"
+            "Home",
+            "Speaker"
         ],
-        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1806,7 +1806,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1827,9 +1827,9 @@
     },
     {
         "category": [
-            "Home › Speaker › Motorola Moto 360 (2nd gen)"
+            "Home",
+            "Speaker"
         ],
-        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1839,7 +1839,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.559.012,41 VND",
+        "price": "8.613.251,50 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1879,13 +1879,13 @@
     },
     {
         "category": [
-            "Home › Speaker › Logitech Wireless Keyboard MK240 Nano"
+            "Home",
+            "Speaker"
         ],
-        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "595.235,18 VND",
+        "price": "599.007,23 VND",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1906,9 +1906,9 @@
     },
     {
         "category": [
-            "Home › Speaker › Logitech MX anywhere 2"
+            "Home",
+            "Speaker"
         ],
-        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1916,7 +1916,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "439.945,81 VND",
+        "price": "442.733,78 VND",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1948,9 +1948,9 @@
     },
     {
         "category": [
-            "Home › Speaker › JBL Charge 3"
+            "Home",
+            "Speaker"
         ],
-        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1958,7 +1958,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.300.204,93 VND",
+        "price": "3.321.118,57 VND",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1991,16 +1991,16 @@
     },
     {
         "category": [
-            "Home › Speaker › Apple Watch Edition Series 2"
+            "Home",
+            "Speaker"
         ],
-        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -2045,9 +2045,9 @@
     },
     {
         "category": [
-            "Home › Accessories › Samsung Gear VR"
+            "Home",
+            "Accessories"
         ],
-        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -2056,7 +2056,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -2077,9 +2077,9 @@
     },
     {
         "category": [
-            "Home › Accessories › Motorola Moto 360 (2nd gen)"
+            "Home",
+            "Accessories"
         ],
-        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -2089,7 +2089,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.559.012,41 VND",
+        "price": "8.613.251,50 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -2129,13 +2129,13 @@
     },
     {
         "category": [
-            "Home › Accessories › Logitech Wireless Keyboard MK240 Nano"
+            "Home",
+            "Accessories"
         ],
-        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "595.235,18 VND",
+        "price": "599.007,23 VND",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -2156,9 +2156,9 @@
     },
     {
         "category": [
-            "Home › Accessories › Logitech MX anywhere 2"
+            "Home",
+            "Accessories"
         ],
-        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -2166,7 +2166,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "439.945,81 VND",
+        "price": "442.733,78 VND",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -2198,9 +2198,9 @@
     },
     {
         "category": [
-            "Home › Accessories › JBL Charge 3"
+            "Home",
+            "Accessories"
         ],
-        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -2208,7 +2208,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.300.204,93 VND",
+        "price": "3.321.118,57 VND",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -2241,16 +2241,16 @@
     },
     {
         "category": [
-            "Home › Accessories › Apple Watch Edition Series 2"
+            "Home",
+            "Accessories"
         ],
-        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -2295,16 +2295,16 @@
     },
     {
         "category": [
-            "Home › Accessories › USB SanDisk"
+            "Home",
+            "Accessories"
         ],
-        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "170.940,59 VND",
+        "price": "172.023,85 VND",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -2333,13 +2333,13 @@
     },
     {
         "category": [
-            "Home › Accessories › Sennheiser EZX 80"
+            "Home",
+            "Accessories"
         ],
-        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.687.396,37 VND",
+        "price": "1.698.089,53 VND",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -2363,16 +2363,16 @@
     },
     {
         "category": [
-            "Home › Television › USB SanDisk"
+            "Home",
+            "Television"
         ],
-        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "170.940,59 VND",
+        "price": "172.023,85 VND",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -2401,13 +2401,13 @@
     },
     {
         "category": [
-            "Home › Television › Sennheiser EZX 80"
+            "Home",
+            "Television"
         ],
-        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.687.396,37 VND",
+        "price": "1.698.089,53 VND",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -2431,9 +2431,9 @@
     },
     {
         "category": [
-            "Home › Television › Samsung Gear VR"
+            "Home",
+            "Television"
         ],
-        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -2442,7 +2442,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.421.046,97 VND",
+        "price": "2.436.389,32 VND",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -2463,9 +2463,9 @@
     },
     {
         "category": [
-            "Home › Television › Motorola Moto 360 (2nd gen)"
+            "Home",
+            "Television"
         ],
-        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -2475,7 +2475,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.559.012,41 VND",
+        "price": "8.613.251,50 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -2515,13 +2515,13 @@
     },
     {
         "category": [
-            "Home › Television › Logitech Wireless Keyboard MK240 Nano"
+            "Home",
+            "Television"
         ],
-        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "595.235,18 VND",
+        "price": "599.007,23 VND",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -2542,9 +2542,9 @@
     },
     {
         "category": [
-            "Home › Television › Logitech MX anywhere 2"
+            "Home",
+            "Television"
         ],
-        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -2552,7 +2552,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "439.945,81 VND",
+        "price": "442.733,78 VND",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -2584,9 +2584,9 @@
     },
     {
         "category": [
-            "Home › Television › JBL Charge 3"
+            "Home",
+            "Television"
         ],
-        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -2594,7 +2594,7 @@
             "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.300.204,93 VND",
+        "price": "3.321.118,57 VND",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -2627,16 +2627,16 @@
     },
     {
         "category": [
-            "Home › Television › Apple Watch Edition Series 2"
+            "Home",
+            "Television"
         ],
-        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
             "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "9.023.902,34 VND",
+        "price": "9.081.087,47 VND",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
