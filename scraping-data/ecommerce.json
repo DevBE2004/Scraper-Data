@@ -4,6 +4,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "XIAOMI MI 5",
         "brand": "XIAOMI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1024x1024.jpg?v=1491404851",
         "images": [
@@ -63,6 +64,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "VIVO V5",
         "brand": "VIVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_31cc1c0e-ac34-4c8e-946a-a5e30acf6b1a_1024x1024.jpg?v=1491404855",
         "images": [
@@ -104,6 +106,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "SONY XPERIA XA",
         "brand": "SONY",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/xperia-xa-white-D1-hero-image-35f68ba1669ba23b989e7519e4a1660d_1024x1024.jpg?v=1491404881",
         "images": [
@@ -155,6 +158,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "SAMSUNG GALAXY S7",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s7-and-s7-edge-unveiled-with-refined-design-performance-boost-500729-4_1024x1024.jpg?v=1491404832",
         "images": [
@@ -196,6 +200,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "SAMSUNG GALAXY J7 PRIME",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1024x1024.jpg?v=1491404895",
         "images": [
@@ -245,6 +250,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "LG G5",
         "brand": "LG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/modular-type-1600x840_G5_M01C_1024x1024.jpg?v=1491404872",
         "images": [
@@ -280,6 +286,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "IPHONE 7",
         "brand": "IPHONE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/iphone_1024x1024.jpg?v=1491404827",
         "images": [
@@ -332,6 +339,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "HTC 10",
         "brand": "HTC",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/HTC-10-1_1024x1024.jpg?v=1491404875",
         "images": [
@@ -382,6 +390,7 @@
             "Home",
             "Smartphone"
         ],
+        "name": "GOOGLE PIXEL",
         "brand": "GOOGLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/u3_1024x1024.jpg?v=1491404903",
         "images": [
@@ -435,6 +444,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "XIAOMI MI PAD 3",
         "brand": "XIAOMI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1_1024x1024.jpg?v=1491404888",
         "images": [
@@ -493,6 +503,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "SONY XPERIA Z4 TABLET LTE",
         "brand": "SONY",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-11_1024x1024.jpg?v=1491404927",
         "images": [
@@ -536,6 +547,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "SAMSUNG GALAXY TAB S 8.4 LTE",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss8_1024x1024.jpg?v=1491404867",
         "images": [
@@ -584,6 +596,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "LG G PAD III 10.1 FHD",
         "brand": "LG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-2_1024x1024.jpg?v=1491404930",
         "images": [
@@ -616,6 +629,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "LENOVO YOGA TAB 3 PLUS",
         "brand": "LENOVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss3_1024x1024.jpg?v=1491404819",
         "images": [
@@ -650,6 +664,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "HUAWEI MEDIAPAD T1 7.0",
         "brand": "HUAWEI",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss4_1024x1024.jpg?v=1491404838",
         "images": [
@@ -684,6 +699,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "ASUS ZENPAD 3 8.0 Z581KL",
         "brand": "ASUS",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss9_1024x1024.jpg?v=1491404859",
         "images": [
@@ -717,6 +733,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "APPLE IPAD PRO",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss5_1024x1024.jpg?v=1491404844",
         "images": [
@@ -769,6 +786,7 @@
             "Home",
             "Tablet"
         ],
+        "name": "APPLE IPAD AIR 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/SS7_1_1024x1024.jpg?v=1491404862",
         "images": [
@@ -821,6 +839,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "LENOVO IDEAPAD 110",
         "brand": "LENOVO",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_877559ca-7315-44b0-9f7f-f393bd0808bd_1024x1024.jpg?v=1491404790",
         "images": [
@@ -854,6 +873,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "HP PROBOOK 450",
         "brand": "HP",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_6dbdaadc-bd0c-454b-b4c1-395b60a2e2a7_1024x1024.jpg?v=1491404782",
         "images": [
@@ -887,6 +907,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "HP PAVILION 15 AU072TX",
         "brand": "HP",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/x2_1024x1024.jpg?v=1491404795",
         "images": [
@@ -920,6 +941,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "DELL INSPIRON 7460",
         "brand": "DELL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_8ad649f4-de63-464c-a7d1-7573c1b53a2d_1024x1024.jpg?v=1491404804",
         "images": [
@@ -953,6 +975,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "ASUS ROG G752VM",
         "brand": "ASUS",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_33133681-0515-48fa-a6ee-fce4fc68afea_1024x1024.jpg?v=1491404807",
         "images": [
@@ -995,6 +1018,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "APPLE MACBOOK PRO 13\"",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1_1024x1024.jpg?v=1491404800",
         "images": [
@@ -1028,6 +1052,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "APPLE MACBOOK AIR",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_4_1024x1024.jpg?v=1491404771",
         "images": [
@@ -1061,6 +1086,7 @@
             "Home",
             "Laptop"
         ],
+        "name": "ACER ASPIRE E5",
         "brand": "ACER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_00d0ce5d-e30b-4a9a-bffd-357614f67b8d_1024x1024.jpg?v=1491404787",
         "images": [
@@ -1094,6 +1120,7 @@
             "Home",
             "Camera"
         ],
+        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
@@ -1132,6 +1159,7 @@
             "Home",
             "Camera"
         ],
+        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
@@ -1162,6 +1190,7 @@
             "Home",
             "Camera"
         ],
+        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1194,6 +1223,7 @@
             "Home",
             "Camera"
         ],
+        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1246,6 +1276,7 @@
             "Home",
             "Camera"
         ],
+        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
@@ -1273,6 +1304,7 @@
             "Home",
             "Camera"
         ],
+        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1315,6 +1347,7 @@
             "Home",
             "Camera"
         ],
+        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1358,6 +1391,7 @@
             "Home",
             "Camera"
         ],
+        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
@@ -1412,6 +1446,7 @@
             "Home",
             "Printer"
         ],
+        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
@@ -1450,6 +1485,7 @@
             "Home",
             "Printer"
         ],
+        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
@@ -1480,6 +1516,7 @@
             "Home",
             "Printer"
         ],
+        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1512,6 +1549,7 @@
             "Home",
             "Printer"
         ],
+        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1564,6 +1602,7 @@
             "Home",
             "Printer"
         ],
+        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
@@ -1591,6 +1630,7 @@
             "Home",
             "Printer"
         ],
+        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1633,6 +1673,7 @@
             "Home",
             "Printer"
         ],
+        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1676,6 +1717,7 @@
             "Home",
             "Printer"
         ],
+        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
@@ -1730,6 +1772,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
@@ -1768,6 +1811,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
@@ -1798,6 +1842,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -1830,6 +1875,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -1882,6 +1928,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
@@ -1909,6 +1956,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -1951,6 +1999,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -1994,6 +2043,7 @@
             "Home",
             "Speaker"
         ],
+        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
@@ -2048,6 +2098,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -2080,6 +2131,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -2132,6 +2184,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
@@ -2159,6 +2212,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -2201,6 +2255,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -2244,6 +2299,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
@@ -2298,6 +2354,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
@@ -2336,6 +2393,7 @@
             "Home",
             "Accessories"
         ],
+        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
@@ -2366,6 +2424,7 @@
             "Home",
             "Television"
         ],
+        "name": "USB SANDISK",
         "brand": "USB",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
         "images": [
@@ -2404,6 +2463,7 @@
             "Home",
             "Television"
         ],
+        "name": "SENNHEISER EZX 80",
         "brand": "SENNHEISER",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
@@ -2434,6 +2494,7 @@
             "Home",
             "Television"
         ],
+        "name": "SAMSUNG GEAR VR",
         "brand": "SAMSUNG",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
         "images": [
@@ -2466,6 +2527,7 @@
             "Home",
             "Television"
         ],
+        "name": "MOTOROLA MOTO 360 (2ND GEN)",
         "brand": "MOTOROLA",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
         "images": [
@@ -2518,6 +2580,7 @@
             "Home",
             "Television"
         ],
+        "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
@@ -2545,6 +2608,7 @@
             "Home",
             "Television"
         ],
+        "name": "LOGITECH MX ANYWHERE 2",
         "brand": "LOGITECH",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
         "images": [
@@ -2587,6 +2651,7 @@
             "Home",
             "Television"
         ],
+        "name": "JBL CHARGE 3",
         "brand": "JBL",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
         "images": [
@@ -2630,6 +2695,7 @@
             "Home",
             "Television"
         ],
+        "name": "APPLE WATCH EDITION SERIES 2",
         "brand": "APPLE",
         "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
         "images": [
